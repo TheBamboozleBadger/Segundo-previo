@@ -24,10 +24,14 @@ public class VistaInventario extends javax.swing.JFrame {
         this.btnGuardar.getActionListeners();
         this.btnEliminar.getActionListeners();
         this.btnBorrarLista.getActionListeners();
-        
-        this.txtNombreProd.getText();
+             
     }
-    
+     public void limpiarCampos(){
+         this.txtCantidad.setText("");
+         this.txtMostrar.setText("");
+         this.txtNombreProd.setText("");
+         this.txtValorUnitario.setText("");
+     }
     
     
 

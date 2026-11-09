@@ -3,7 +3,7 @@
  */
 
 package com.mycompany.previosuministroserickdamiansuarezruiz;
-
+import com.mycompany.previosuministroscontrolador.ControladorInventario;
 /**
  *
  * @author estudiantes
