@@ -25,7 +25,7 @@ public class VistaInventario extends javax.swing.JFrame {
         this.btnEliminar.getActionListeners();
         this.btnBorrarLista.getActionListeners();
         
-        this.txtNombreProd
+        this.txtNombreProd.getText();
     }
     
     
